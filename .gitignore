@@ -2,3 +2,4 @@ a2
 *.o
 *.dll
 .DS_Store
+.git/
